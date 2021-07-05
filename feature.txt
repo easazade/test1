@@ -1,1 +1,3 @@
 this is feature 2
+
+bug fix in feature 2
