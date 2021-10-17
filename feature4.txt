@@ -3,3 +3,5 @@ this is feature 4
 bug fix in feature 4
 
 new things in feature 4
+
+new things in feature 4 again
